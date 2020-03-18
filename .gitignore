@@ -6,7 +6,6 @@
 .yardoc
 InstalledFiles
 _yardoc
-Gemfile.lock
 coverage
 lib/bundler/man
 pkg

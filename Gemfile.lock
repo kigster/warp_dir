@@ -1,0 +1,67 @@
+PATH
+  remote: .
+  specs:
+    warp-dir (1.6.3)
+      slop (~> 4.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ast (2.4.0)
+    diff-lcs (1.3)
+    docile (1.3.2)
+    jaro_winkler (1.5.4)
+    json (2.3.0)
+    parallel (1.19.1)
+    parser (2.7.0.4)
+      ast (~> 2.4.0)
+    rainbow (3.0.0)
+    rake (13.0.1)
+    rexml (3.2.4)
+    rspec (3.9.0)
+      rspec-core (~> 3.9.0)
+      rspec-expectations (~> 3.9.0)
+      rspec-mocks (~> 3.9.0)
+    rspec-core (3.9.1)
+      rspec-support (~> 3.9.1)
+    rspec-expectations (3.9.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-its (1.3.0)
+      rspec-core (>= 3.0.0)
+      rspec-expectations (>= 3.0.0)
+    rspec-mocks (3.9.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-support (3.9.2)
+    rubocop (0.80.1)
+      jaro_winkler (~> 1.5.1)
+      parallel (~> 1.10)
+      parser (>= 2.7.0.1)
+      rainbow (>= 2.2.2, < 4.0)
+      rexml
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 1.7)
+    ruby-progressbar (1.10.1)
+    simplecov (0.17.1)
+      docile (~> 1.1)
+      json (>= 1.8, < 3)
+      simplecov-html (~> 0.10.0)
+    simplecov-html (0.10.2)
+    slop (4.8.0)
+    unicode-display_width (1.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  rake
+  rspec (~> 3.6)
+  rspec-its
+  rubocop
+  simplecov (= 0.17.1)
+  warp-dir!
+
+BUNDLED WITH
+   2.1.2
