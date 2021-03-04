@@ -6,6 +6,7 @@
 [![Code Climate](https://codeclimate.com/github/kigster/warp-dir/badges/gpa.svg)](https://codeclimate.com/github/kigster/warp-dir)
 [![Test Coverage](https://codeclimate.com/github/kigster/warp-dir/badges/coverage.svg)](https://codeclimate.com/github/kigster/warp-dir/coverage)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/kigster/warp-dir)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkigster%2Fwarp-dir.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkigster%2Fwarp-dir?ref=badge_shield)
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -190,3 +191,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/kigste
 ## License
 
 This project is distributed under the [MIT License](https://raw.githubusercontent.com/kigster/warp-dir/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkigster%2Fwarp-dir.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkigster%2Fwarp-dir?ref=badge_large)
